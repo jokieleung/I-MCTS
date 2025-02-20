@@ -1,0 +1,3 @@
+datasets_dir: "/input3/liangzujie.lzj/projects/MetaGPT-main-1224/metagpt/ext/sela/workspace/datasets" # path to the datasets directory SELA-datasets
+work_dir: /input3/liangzujie.lzj/projects/MetaGPT-main-1224/metagpt/ext/sela/workspace # path to the workspace directory
+role_dir: /input3/liangzujie.lzj/projects/MetaGPT-main-1224/metagpt/ext/sela/workspace/storage/SELA # path to the role directory

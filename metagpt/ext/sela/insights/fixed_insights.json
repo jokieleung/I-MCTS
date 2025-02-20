@@ -1,0 +1,28 @@
+[
+{
+    "Analysis": "Check whether the difference between the distribution of training samples and validation samples is too large.",
+    "Category": "EDA",
+    "task_id": 1
+},    
+{
+    "Analysis": "Mining features that are more suitable for the scene, such as anti-fraud should use more short-term negative features, and credit scoring should use strong financial attribute features.",
+    "Category": "Feature Engineering",
+    "task_id": 3
+},    
+{
+    "Analysis": "Check whether the positive and negative samples are particularly unbalanced. The sample imbalance will make the model have good AUC but low ks.",
+    "Category": "Model Training",
+    "task_id": 4
+},    
+{
+    "Analysis": "if ks is range in [0.51, 0.75], it represent the model is good",
+    "Category": "Model Training",
+    "task_id": 4
+},    
+{
+    "Analysis": "Check whether the difference between the distribution of training samples and validation samples is too large",
+    "Category": "Model Training",
+    "task_id": 4
+}
+]
+
