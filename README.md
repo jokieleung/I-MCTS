@@ -1,7 +1,7 @@
 
 # I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree Search
 
-This is the implementation of our paper: [I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree Search](https://arxiv.org/abs/2502.14693)
+This is the implementation of our EACL 2026 Findings paper: [I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree Search](https://arxiv.org/abs/2502.14693)
 
 ## Introduction
 
